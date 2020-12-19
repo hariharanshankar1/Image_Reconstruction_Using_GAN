@@ -1,0 +1,9 @@
+Dataset:
+
+The whole dataset can be found in this following link.
+https://drive.google.com/drive/folders/13JQa5y647J6TqY83nakdw4HXhwLlCFnW?usp=sharing
+
+Saved Model:
+
+saved model of our neural network can be found in this link.
+https://drive.google.com/drive/folders/1QUscG1jLi7odXVNBf5x-fopmYGoWFt7H?usp=sharing	
